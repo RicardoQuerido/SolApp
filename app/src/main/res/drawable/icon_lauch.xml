@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+
+    <item>
+        <shape android:shape="oval">
+            <corners android:bottomRightRadius="180dp"
+                android:bottomLeftRadius="180dp"
+                android:topRightRadius="180dp"
+                android:topLeftRadius="180dp"/>
+
+            <size android:height="200dp"
+                android:width="200dp"/>
+
+            <solid android:color="#009CC8" />
+        </shape>
+
+    </item>
+
+    <item android:width="180dp"
+        android:height="180dp"
+        android:gravity="center">
+
+
+        <bitmap
+            android:gravity="left|right|top|bottom"
+            android:src="@drawable/rising_sun"/>
+    </item>
+
+
+
+
+
+</layer-list>
