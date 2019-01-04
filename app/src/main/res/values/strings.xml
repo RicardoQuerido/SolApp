@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">SolApp</string>
+    <string name="weather_in">Weather in</string>
+    <string name="when">When?</string>
+    <string name="azores">Azores</string>
+    <string name="madeira">Madeira</string>
+    <string name="mainland">Mainland</string>
+    <string name="maximum_temperature">Maximum temperature:</string>
+    <string name="max">max</string>
+    <string name="minimum_temperature">Minimum temperature:</string>
+    <string name="min">min</string>
+    <string name="precipitation_probability">Precipitation probability:</string>
+    <string name="precipitation">precipitation</string>
+    <string name="wind_direction">Wind direction:</string>
+    <string name="wind_dir">wind_dir</string>
+    <string name="welcome_to_solapp">Welcome to SolApp</string>
+    <string name="according_to_the_most_recent_data_you_are_in">According to the most recent data you are in:</string>
+    <string name="unknown_location">Unknown Location</string>
+    <string name="see_map">See Map</string>
+    <string name="Min">Min:</string>
+    <string name="Max">Max:</string>
+    <string name="more_info">Click here for more info...</string>
+    <string name="temperature_symbol">ºC</string>
+    <string name="percentage_symbol">%</string>
+    <string name="refresh_message">Data refreshed from network!</string>
+    <string-array name="options_days">
+        <item>Today</item>
+        <item>Tomorrow</item>
+        <item>After Tomorrow</item>
+    </string-array>
+    <string-array name="days_of_week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>

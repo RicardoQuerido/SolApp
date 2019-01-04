@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SolApp</string>
+    <string name="weather_in">Tempo em</string>
+    <string name="when">Quando?</string>
+    <string name="azores">Açores</string>
+    <string name="madeira">Madeira</string>
+    <string name="mainland">Continente</string>
+    <string name="maximum_temperature">Temperatura máxima:</string>
+    <string name="max">max</string>
+    <string name="minimum_temperature">Temperatura miníma:</string>
+    <string name="min">min</string>
+    <string name="precipitation_probability">Probabilidade de precipitação:</string>
+    <string name="precipitation">precipitation</string>
+    <string name="wind_direction">Direction do vento:</string>
+    <string name="wind_dir">wind_dir</string>
+    <string name="welcome_to_solapp">Bem-vindo à SolApp</string>
+    <string name="according_to_the_most_recent_data_you_are_in">De acordo com a informação mais recente, você encontra-se em:</string>
+    <string name="unknown_location">Localização Indefinida</string>
+    <string name="see_map">Ver Mapa</string>
+    <string name="Min">Min:</string>
+    <string name="Max">Max:</string>
+    <string name="more_info">Clique aqui para obter mais informações</string>
+    <string name="temperature_symbol">ºC</string>
+    <string name="percentage_symbol">%</string>
+    <string name="refresh_message">Informação atualizada!</string>
+    <string-array name="options_days">
+        <item>Hoje</item>
+        <item>Amanhã</item>
+        <item>Depois de amanhã</item>
+    </string-array>
+    <string-array name="days_of_week">
+        <item>Segunda</item>
+        <item>Terça</item>
+        <item>Quarta</item>
+        <item>Quinta</item>
+        <item>Sexta</item>
+        <item>Sábado</item>
+        <item>Domingo</item>
+    </string-array>
+</resources>
